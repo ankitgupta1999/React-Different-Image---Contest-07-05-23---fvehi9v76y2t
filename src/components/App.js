@@ -13,7 +13,7 @@ const App = () => {
     <div id="main">
       <h1>Add images in 2-different ways.</h1>
       <GIF src={Programming}/>
-      <img className='url-image' src="https://picsum.photos/id/400/200" alt='A  random image />
+      <img className='url-image' src="https://picsum.photos/id/400/200" alt='A  random image' />
     </div>
   )
 }
